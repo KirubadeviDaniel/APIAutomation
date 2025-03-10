@@ -30,5 +30,5 @@ def test():
         print("else")
     response_data=res.text
     print(response_data)
-
+    print(1)
 test()
